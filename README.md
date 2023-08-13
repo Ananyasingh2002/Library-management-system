@@ -1,6 +1,6 @@
 #Library Management System
 
-![Library Management System](link_to_image)
+![Library Management System](images/Screenshot-1.png)
 
 ## Overview
 
@@ -45,6 +45,9 @@ The **Library Management System** is a Python application built using the Tkinte
 ## Screenshots
 
 Include screenshots of the application's different functionalities here.
+
+![Adding files](images/Screenshot-2.png)
+![Deletion of files](images/Screenshot-3.png)
 
 ## Future Enhancements
 
